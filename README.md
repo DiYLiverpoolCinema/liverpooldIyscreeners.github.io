@@ -1,3 +1,9 @@
+# 🎬 Liverpool DIY Screeners
+Independent, community-driven film nights happening across Liverpool.  
+Pay-what-you-can screenings, cult classics, new voices, and interactive cinema.
+
+
+
 ## 🎬 Upcoming Screenings (September 2025)
 
 - **Lobster Man From Mars** — *Tape Trove*  
